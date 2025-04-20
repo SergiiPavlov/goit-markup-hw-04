@@ -276,6 +276,7 @@ h3 {
   border-radius: 4px;
   background-color: var(--color-cloud);
   margin-bottom: 8px;
+  border: 1px solid var(--color-light-slate);
 }
 
 .presentation-text {
@@ -469,6 +470,7 @@ h3 {
   line-height: 1.5;
   color: var(--color-white);
   margin-bottom: 16px;
+  letter-spacing: 0.02em;
 }
 
 .footer-icon-list {
